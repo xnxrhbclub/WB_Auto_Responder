@@ -1,5 +1,7 @@
 # WB_Auto_Responder
 
+![preview](https://github.com/user-attachments/assets/f8139b98-c28c-42e2-b17b-66aaae0efd29)
+
 Автоматизированный инструмент для ответов на отзывы продавца на Wildberries с графическим интерфейсом.
 
 ## Возможности
