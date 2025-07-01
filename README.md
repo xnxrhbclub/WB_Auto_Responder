@@ -63,5 +63,7 @@
   MIT License. Подробнее см. в файле LICENSE.
 
 ## Полный доступ:
-  остальной код доступен после покупки: tg: https://t.me/xnxdesignclub  | kwork: https://kwork.ru/user/dmitriynehaev
-  остальной код доступен после покупки: tg: https://t.me/xnxdesignclub  | kwork: https://kwork.ru/user/dmitriynehaev
+  остальной код доступен после покупки: 
+  
+  tg: https://t.me/xnxdesignclub
+  kwork: https://kwork.ru/user/dmitriynehaev
