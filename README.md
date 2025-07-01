@@ -35,7 +35,7 @@
 ## Настройка
   Запустите приложение:
     bash
-    python wildberries_autoresponder.py
+    python wb_otziv.py
     
   Во вкладке "Настройки" укажите:
     Номер телефона, привязанный к аккаунту Wildberries
